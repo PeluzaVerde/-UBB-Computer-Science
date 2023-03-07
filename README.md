@@ -51,7 +51,7 @@
         </a>
       </li>
       <li>
-        <a href="hhttps://github.com/PeluzaVerde/Probability-and-Statistics"> 
+        <a href="https://github.com/PeluzaVerde/Probability-and-Statistics"> 
           :chart_with_upwards_trend:  Probability and Statistics
         </a>
       </li>
