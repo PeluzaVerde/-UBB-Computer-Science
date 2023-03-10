@@ -57,6 +57,22 @@
       </li>
     </ul>
   </li>
+  <li>:open_file_folder: Semester 4
+    <ul>
+      <li>
+        <a href="https://github.com">
+          :nut_and_bolt:  Database Management Systems (WIP)
+      </li>
+      <li>
+        <a href="https://github.com">
+          :newspaper:  Web Programming (W
+      </li>
+      <li>
+        <a href="https://github.com">
+          :zap:  Systems for Design and Implementation (WIP)
+      </li>
+    </ul>
+  </li>
   </li>
 </ul>
 
