@@ -65,7 +65,7 @@
       </li>
       <li>
         <a href="https://github.com">
-          :newspaper:  Web Programming (W
+          :newspaper:  Web Programming (WIP)
       </li>
       <li>
         <a href="https://github.com">
